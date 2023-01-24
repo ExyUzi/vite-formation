@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Ma Feature</h1>
+      <h2>Nouvelle feature</h2>
     </div>
   )
 }
